@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-## My name is Kwangje(Michael) Sa and I am a junior at Columbia University majoring in Applied Mathematics.
-## I enjoy creating machine learning models to understand how to world works, which allows me to learn concepts in Data Science.
+### My name is Kwangje Sa and I am a junior at Columbia University majoring in Applied Mathematics.
+### I enjoy creating machine learning models to understand how to world works, which allows me to learn concepts in Data Science.
 
-## I mainly use Python and Java.
+### I mainly use Python and Java.
 
-## I am currently building a machine learning model that takes in past data to predict next day stock market price direction.
+### I am currently building a machine learning model that takes in past data to predict next day stock market price direction.
 
 <!--
 **ADO183115/ADO183115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
